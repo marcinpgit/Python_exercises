@@ -1,0 +1,3 @@
+Wiersz 1
+Linia 2
+Ostatni wiersz 3
